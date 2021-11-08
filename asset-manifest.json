@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Simon-game_React/static/js/main.13b8d374.chunk.js",
+    "main.js.map": "/Simon-game_React/static/js/main.13b8d374.chunk.js.map",
+    "runtime-main.js": "/Simon-game_React/static/js/runtime-main.8f8b520c.js",
+    "runtime-main.js.map": "/Simon-game_React/static/js/runtime-main.8f8b520c.js.map",
+    "static/js/2.c49e5009.chunk.js": "/Simon-game_React/static/js/2.c49e5009.chunk.js",
+    "static/js/2.c49e5009.chunk.js.map": "/Simon-game_React/static/js/2.c49e5009.chunk.js.map",
+    "index.html": "/Simon-game_React/index.html",
+    "static/js/2.c49e5009.chunk.js.LICENSE.txt": "/Simon-game_React/static/js/2.c49e5009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f8b520c.js",
+    "static/js/2.c49e5009.chunk.js",
+    "static/js/main.13b8d374.chunk.js"
+  ]
+}
